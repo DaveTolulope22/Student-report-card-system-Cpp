@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625674833 source:c:\users\david\onedrive\desktop\object oriented programmng c++\c++ project\student report card system\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1625674834 source:e:\school and work\student report card system\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
